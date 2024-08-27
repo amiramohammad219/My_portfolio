@@ -1,4 +1,4 @@
-# Data Scientist
+# Junior Data Scientist
 
 #### Technical Skills: Python, SQL, Postgresql,Machine Learning , Deep Learning,Data Analysis,Data Visualization,Power Bi,Data Cleaning,Data Preprocessing, ,linear algebra , satistics.
 
