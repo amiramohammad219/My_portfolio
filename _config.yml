@@ -1,5 +1,6 @@
-title:Amira Muhammad
-logo:/my photo2.png
-description:Data Scientist
+title: "Amira Muhammad"
+logo: "/my_photo2.png"  
+description: "Data Scientist"
 show_downloads: true
-theme:jekyll-theme-minimal
+theme: jekyll-theme-minimal
+
