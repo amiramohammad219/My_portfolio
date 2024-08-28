@@ -51,7 +51,7 @@ To analyze the impact of economic factors like inflation, exchange rates, and in
 
 
 
-![Global Cost of Living Comparison]("/Jekyll Project/assets/images/cost_of_living.png")
+![Global Cost of Living Comparison]("Jekyll Project/assets/images/cost_of_living.png")
 
 
 
