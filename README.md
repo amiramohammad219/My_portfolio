@@ -53,6 +53,59 @@ To analyze the impact of economic factors like inflation, exchange rates, and in
 
 ![Global Cost of Living Comparison](/Jekyll Project/assets/images/cost_of_living.png)
 
+### Project Summary: Pneumonia Detection Using Deep Learning
+### Key Objectives:
+
+To develop a deep learning model capable of accurately detecting pneumonia from medical imaging, such as chest X-rays, to assist in early diagnosis and treatment.
+
+## Methodology:
+
+### Data Collection: Sourced chest X-ray images from publicly available medical imaging datasets.
+### Data Preprocessing: Performed image augmentation and normalization to prepare data for analysis.
+### Model Development: Designed and trained a convolutional neural network (CNN) using TensorFlow/Keras for image classification.
+### Evaluation: Assessed model performance using accuracy, precision, recall, and F1-score metrics..
+
+## Findings:
+
+## The deep learning model achieved high accuracy in detecting pneumonia, demonstrating its potential as a diagnostic tool to support healthcare professionals in resource-constrained settings. 
+
+## Conclusion: This project showcased the capabilities of AI in healthcare, emphasizing the role of deep learning in improving diagnostic efficiency and accuracy.
+
+
+### Project Summary: Drugs Prescription Using Reviews
+### Key Objectives:
+
+To analyze patient reviews of medications and build a recommendation system for prescribing drugs based on user feedback and sentiment analysis.
+
+## Methodology:
+
+### Data Collection: Extracted and aggregated user reviews and ratings from reliable medical forums.
+### Natural Language Processing (NLP): Applied sentiment analysis and topic modeling to identify trends in user experiences.
+### Model Development: Built a recommendation system using machine learning techniques to match drugs with user needs based on reviews.
+### Evaluation: Tested the system using validation datasets and real-world scenarios.
+
+## Findings:
+
+## The project revealed patterns in patient satisfaction and effectiveness across various drugs, providing a foundation for informed prescription decisions.
+
+## Conclusion: The recommendation system demonstrated the value of leveraging user feedback in personalizing healthcare solutions, improving patient outcomes, and optimizing drug prescriptions.
+
+### Project Summary: Stock Market Prediction
+### Key Objectives:
+
+To create a predictive model for stock market trends and price movements using historical data and machine learning techniques.
+## Methodology:
+
+### Data Collection: Gathered historical stock prices, trading volumes, and economic indicators from financial databases.
+### Feature Engineering: Identified critical predictors, such as moving averages, volatility, and momentum indicators.
+### Model Development: Implemented machine learning models, including Random Forests and LSTMs, for time series forecasting.
+### Visualization: Developed dashboards to present predicted trends and insights using Python libraries like Plotly and Dash..
+
+## Findings:
+
+## TThe model provided reliable short-term predictions, assisting investors in making data-driven decisions. Long-term forecasting highlighted market volatility as a significant challenge.
+
+## Conclusion:This project underscored the application of machine learning in finance, demonstrating its potential to enhance trading strategies and risk management.
 
 
 
